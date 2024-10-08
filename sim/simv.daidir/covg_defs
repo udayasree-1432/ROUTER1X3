@@ -1,0 +1,208 @@
+global coverage_group 0 router_pkg::router_scoreboard::router_fcov1 __coverage_router_scoreboard.router_fcov1 unused_router_scoreboard_router_fcov1_loop_label router_pkg 0 1 0 0 0  ( 0 
+)
+ 1 1
+ 0 79 /home1/BPRN01/GonaD/VLSI_RN/UVM_LABS/router_mini/sim/../tb/router_scoreboard.sv
+ 20 0 0 0 1 0 0 0 0  1
+0
+0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 65 router_scoreboard::router_pkg_router_scoreboard_router_fcov1_fn_c
+0
+0
+0
+64
+0
+ 0
+
+3
+0
+1
+0
+ 6 HEADER 24 0 0 0 0 0 63 router_scoreboard::router_pkg_router_scoreboard_router_fcov1_fn 63 router_scoreboard::router_pkg_router_scoreboard_router_fcov1_fn 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 2 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 3 1 1 0 0 1 1 5 fifo0 25 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 65 router_scoreboard::router_pkg_router_scoreboard_router_fcov1_fn_0 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 5 fifo1 26 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 65 router_scoreboard::router_pkg_router_scoreboard_router_fcov1_fn_1 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 5 fifo2 27 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 65 router_scoreboard::router_pkg_router_scoreboard_router_fcov1_fn_2 0 0 0 0 0 0 0
+ 0
+
+ 12 PAYLOAD_SIZE 30 0 0 0 0 0 65 router_scoreboard::router_pkg_router_scoreboard_router_fcov1_fn_3 65 router_scoreboard::router_pkg_router_scoreboard_router_fcov1_fn_3 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 6 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 3 1 1 0 0 1 1 12 small_packet 31 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 65 router_scoreboard::router_pkg_router_scoreboard_router_fcov1_fn_4 0 65 router_scoreboard::router_pkg_router_scoreboard_router_fcov1_fn_5 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 13 medium_packet 32 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 65 router_scoreboard::router_pkg_router_scoreboard_router_fcov1_fn_6 0 65 router_scoreboard::router_pkg_router_scoreboard_router_fcov1_fn_7 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 12 large_packet 33 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 65 router_scoreboard::router_pkg_router_scoreboard_router_fcov1_fn_8 0 65 router_scoreboard::router_pkg_router_scoreboard_router_fcov1_fn_9 0 0 0 0 0
+ 0
+
+ 7 BAD_PKT 36 0 0 0 0 0 65 router_scoreboard::router_pkg_router_scoreboard_router_fcov1_fn_a 65 router_scoreboard::router_pkg_router_scoreboard_router_fcov1_fn_a 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 1 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 1 1 1 0 0 1 1 7 bad_pkt 36 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 65 router_scoreboard::router_pkg_router_scoreboard_router_fcov1_fn_b 0 0 0 0 0 0 0
+ 0
+
+ 21 HEADER_X_PAYLOAD_SIZE 0 38 0 0 -1 0 0 0 0 2 0 1 -1 0 0 0
+ 0
+ 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+end_coverage_group
+global coverage_group 0 router_pkg::router_scoreboard::router_fcov2 __coverage_router_scoreboard.router_fcov2 unused_router_scoreboard_router_fcov2_loop_label router_pkg 0 1 0 0 0  ( 0 
+)
+ 0 43 0 0 0 1 0 0 0 0  1
+0
+0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 65 router_scoreboard::router_pkg_router_scoreboard_router_fcov2_fn_a
+0
+0
+0
+64
+0
+ 0
+
+2
+0
+1
+0
+ 6 HEADER 47 0 0 0 0 0 63 router_scoreboard::router_pkg_router_scoreboard_router_fcov2_fn 63 router_scoreboard::router_pkg_router_scoreboard_router_fcov2_fn 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 2 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 3 1 1 0 0 1 1 5 fifo0 48 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 65 router_scoreboard::router_pkg_router_scoreboard_router_fcov2_fn_0 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 5 fifo1 49 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 65 router_scoreboard::router_pkg_router_scoreboard_router_fcov2_fn_1 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 5 fifo2 50 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 65 router_scoreboard::router_pkg_router_scoreboard_router_fcov2_fn_2 0 0 0 0 0 0 0
+ 0
+
+ 12 PAYLOAD_SIZE 53 0 0 0 0 0 65 router_scoreboard::router_pkg_router_scoreboard_router_fcov2_fn_3 65 router_scoreboard::router_pkg_router_scoreboard_router_fcov2_fn_3 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 6 0 0 1 0 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 3 1 1 0 0 1 1 12 small_packet 54 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 65 router_scoreboard::router_pkg_router_scoreboard_router_fcov2_fn_4 0 65 router_scoreboard::router_pkg_router_scoreboard_router_fcov2_fn_5 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 13 medium_packet 55 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 65 router_scoreboard::router_pkg_router_scoreboard_router_fcov2_fn_6 0 65 router_scoreboard::router_pkg_router_scoreboard_router_fcov2_fn_7 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 12 large_packet 56 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 65 router_scoreboard::router_pkg_router_scoreboard_router_fcov2_fn_8 0 65 router_scoreboard::router_pkg_router_scoreboard_router_fcov2_fn_9 0 0 0 0 0
+ 0
+
+ 21 HEADER_X_PAYLOAD_SIZE 0 58 0 0 -1 0 0 0 0 2 0 1 -1 0 0 0
+ 0
+ 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+end_coverage_group
